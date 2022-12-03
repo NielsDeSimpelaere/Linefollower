@@ -1,6 +1,6 @@
 # LineFollower
 <br />
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
+Dit is mijn linefollower
 <br />
 <br />
 [picture]
@@ -9,19 +9,19 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: arduino nano
 <br />
-motors: 
+motors: 50: 1 Micro Metal gearmotor HPCB 6V met Extended Motor Shaft 
 <br />
-h-bridge:
+h-bridge: DRV8833
 <br />
-sensors:
+sensors: QTR-8A
 <br />
-batteries:
+batteries:  2x LG 18650 Li-ion Batterij - 3400mAh - 10A
 <br />
-wireless communication:
+wireless communication: HC-05 Bluetooth module met adapter
 <br />
-distance sensor - motors:
+distance sensor - motors: 10 cm
 <br />
 weight:
 <br />
