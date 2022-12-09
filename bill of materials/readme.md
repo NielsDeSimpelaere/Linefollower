@@ -10,3 +10,4 @@
 |         5|Batterij      |LG 18650 Li-ion Batterij - 3400mAh - 10A                  |   nieuw   |€ 6,00        |  2   |€ 12,00  |
 |         6|Batterijhouder|2x 18650 Batterijhouder                                   |   nieuw   |€ 1,50        |  1   |€ 1,50   |
 |         7|Wielen        |Pololu Wiel 40x7mm-2 stuks                                |   nieuw   |€ 4,90        |  1   |€ 4,90   |
+|         8|Schakelaar    |Toggle Switch Enkelpolig ON-ON 6A - 125V/ 3A - 250V       |   nieuw   |€ 1,50        |  1   |€ 1,50   |
