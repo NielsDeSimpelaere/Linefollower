@@ -6,7 +6,10 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
 bestel alle componenten uit de bill of materials  
 ### stap 2
 Neem de 2 printplaten met afmeting van 50x100mm en leg deze voor je uit. De ene printplaat gebruiken we volledig, de andere gebruiken we voor de montage van de motoren en de sensor. Neem een printplaat en gebruik een schijfzaag om een rechthoek van 25x70 mm en één rechthoek van 20x100 mm te bekomen. 
+### stap 3
+Zet nu de arduino nano op twee centimeter van de korte zijde met de poort naar rechts als we de korte zijde als bovenkant van onze linefollower zullen beschouwen. Solder nu de arduino nano vast op de printplaat.
 ### stap 4
+Solder
 ### stap 5
 ### stap 6
 ### stap 7
@@ -27,4 +30,3 @@ Neem de 2 printplaten met afmeting van 50x100mm en leg deze voor je uit. De ene 
 ### stap 22
 ### stap 23
 ### stap 24
-### stap 25
