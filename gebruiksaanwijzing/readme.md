@@ -20,7 +20,7 @@ run: bij het intypenvan run bij stilstand van de linefollower, zal dit de linefo
 <br />
       Om de linefollower te stoppen moet run opnieuw verzonden worden
 <br />
-set cycle [µs] : hiermee wordt de waarde van de cycle gedefinieerd  
+set cycle [µs] : hiermee wordt de waarde van de cycle gedefinieerd .
 <br />
 set power [0..255] : stel in hoeveel van het maximale vermogen wordt gebruikt.
 <br />
