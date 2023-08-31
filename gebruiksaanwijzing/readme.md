@@ -50,10 +50,15 @@ Daarna krijg je de melding dat de kalibratie voor wit is voltooid.
 ### settings
 De robot rijdt stabiel met volgende parameters:  
 kp: 1
+<br />
 diff: 0,10
+<br />
 ki: 0
+<br />
 kd: 0,012
+<br />
 PWR: 65
+<br />
 
 ### start/stop button
 De zwarte knop bevindt zich links op de linefollower dicht bij de Nano microcontroller.
