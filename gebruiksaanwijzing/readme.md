@@ -14,8 +14,9 @@ worden. Zorg ervoor dat de gebruikte batterijen  van het type LG 18650 Li-ion Ba
 Verbinden van de linefollower en de smartphone gebeurt via de app Serial Bluetooth Terminal. Leg bluetooth aan op je smartphone, en ga in de app naar devices. Zorg ervoor dat je verbonden bent met de HC-05. Ga daarna naar de terminal en verbind rechtsboven door ophet symbooltje van de 2 connecties te klikken. Daarna krijg je de melding dat de HC-05 verbonden ("connected") is.
 
 #### commando's
-debug: wanneer je dit intypt, zie je al de ingestelde waardes
-run: bij het intypenvan run bij stilstand van de linefollower, zal dit de linefollower starten. 
+debug: wanneer je dit intypt, zie je al de ingestelde waardes <br />
+run: bij het intypenvan run bij stilstand van de linefollower, zal dit de linefollower starten. <br />
+<br />
       Om de linefollower te stoppen moet run opnieuw verzonden worden
 set cycle [µs] : hiermee wordt de waarde van de cycle gedefinieerd  
 set power [0..255] : stel in hoeveel 
