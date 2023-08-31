@@ -34,6 +34,13 @@ Zet de linefollower met zijn sensoren op een zwarte ondergrond. Hierop kalibrere
 
 ### settings
 De robot rijdt stabiel met volgende parameters:  
+kp: 1
+diff: 0,10
+ki: 0
+kd: 0,012
+PWR: 65
 
 ### start/stop button
 uitleg locatie + werking start/stop button
+De zwarte knop bevindt zich links op de linefollower dicht bij de Nano microcontroller.
+Bij het aanschakelen van de voeding (blauwe schakelaar), zal de microcontroller opstarten. Eenmaal de rode led brandt, wil dit zeggen dat de linefollower volledig is opgestart en kan starten met rijden. Om de linefollower te laten starten met de lijn te volgen, druk je op de knop. Wanneer je de lijnvolger weer wilt stoppen, til je de lijnvolger op en druk je weer op deze knop. Doordat deze knop is verbonden met een interrupt, zal de microcontroller het lezen van de loop code onderbreken en meteen het 'run' op nul zetten, dus stoppen.
