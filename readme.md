@@ -3,7 +3,8 @@
 Dit is mijn linefollower
 <br />
 <br />
-[picture]
+[Linefollower](https://github.com/NielsDeSimpelaere/Linefollower/assets/104345644/927f3bf6-f4b2-4539-a0e8-781d8f9fa4d0)
+
 <br />
 <br />
   
@@ -21,9 +22,9 @@ batteries:  2x LG 18650 Li-ion Batterij - 3400mAh - 10A
 <br />
 wireless communication: HC-05 Bluetooth module met adapter
 <br />
-distance sensor - motors: 10 cm
+distance sensor - motors: 10,3 cm
 <br />
-weight:
+weight: 201 g
 <br />
-speed: 
+speed: 0,45 m/s
 <br />
