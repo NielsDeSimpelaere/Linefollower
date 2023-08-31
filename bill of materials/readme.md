@@ -12,8 +12,9 @@
 |         7|Wielen          |Pololu Wiel 40x7mm-2 stuks                                |   nieuw   |€ 4,90        |  1   |€ 4,90   |
 |         8|HoofdSchakelaar |Toggle Switch Enkelpolig ON-ON 6A - 125V/ 3A - 250V       |   nieuw   |€ 1,50        |  1   |€ 1,50   |
 |         8|Schakelaar      |Toggle Switch Enkelpolig ON-ON 6A - 125V/ 3A - 250V       |   nieuw   |€ 1,50        |  1   |€ 1,50   |
-|        10|Led             |Led licht                                                  |   nieuw   |€ 1,50        |  1   |€ 1,50   |
+|        10|Led             |Led licht                                                 |   nieuw   |€ 1,50        |  1   |€ 1,50   |
 |        11|Schakelaar      |Toggle Switch Enkelpolig ON-ON 6A - 125V/ 3A - 250V       |   nieuw   |€ 1,50        |  1   |€ 1,50   |
-|        12|Schakelaar      |Toggle Switch Enkelpolig ON-ON 6A - 125V/ 3A - 250V       |   nieuw   |€ 1,50        |  1   |€ 1,50   |  |        13|Schakelaar    |Toggle Switch Enkelpolig ON-ON 6A - 125V/ 3A - 250V       |   nieuw   |€ 1,50        |  1   |€ 1,50   |
+|        12|Schakelaar      |Toggle Switch Enkelpolig ON-ON 6A - 125V/ 3A - 250V       |   nieuw   |€ 1,50        |  1   |€ 1,50   |  
+|        13|Schakelaar      |Toggle Switch Enkelpolig ON-ON 6A - 125V/ 3A - 250V       |   nieuw   |€ 1,50        |  1   |€ 1,50   |
 |        14|Schakelaar      |Toggle Switch Enkelpolig ON-ON 6A - 125V/ 3A - 250V       |   nieuw   |€ 1,50        |  1   |€ 1,50   |
 
