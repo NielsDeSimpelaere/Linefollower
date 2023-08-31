@@ -1,7 +1,10 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-uitleg over het opladen of vervangen van de batterijen
+Zorg bij het insteken of het uithalen van de batterijen dat de blauwe schakelaar, op de batterijhouder,
+uit (naar het linker wiel gericht) staat.
+
+Om de batterijen op te laden, wordt gebruikt gemaakt van de Xtar MC1 Li-ion Mini Batterijlader. 
 
 ### draadloze communicatie
 #### verbinding maken
