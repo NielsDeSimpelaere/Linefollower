@@ -5,7 +5,6 @@ Dit is mijn linefollower
 
 <br />
 ![Linefollower](https://github.com/NielsDeSimpelaere/Linefollower/assets/104345644/927f3bf6-f4b2-4539-a0e8-781d8f9fa4d0)
-![Linefollower](https://github.com/NielsDeSimpelaere/Linefollower/assets/104345644/96e17a45-7308-4e07-911a-bc6d7318b494)
 
 <br />
 <br />
