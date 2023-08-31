@@ -2,8 +2,9 @@
 <br />
 Dit is mijn linefollower
 <br />
+
 <br />
-[Linefollower](https://github.com/NielsDeSimpelaere/Linefollower/assets/104345644/927f3bf6-f4b2-4539-a0e8-781d8f9fa4d0)
+![Linefollower](https://github.com/NielsDeSimpelaere/Linefollower/assets/104345644/927f3bf6-f4b2-4539-a0e8-781d8f9fa4d0)
 
 <br />
 <br />
