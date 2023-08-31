@@ -22,7 +22,7 @@ run: bij het intypenvan run bij stilstand van de linefollower, zal dit de linefo
 <br />
 set cycle [µs] : hiermee wordt de waarde van de cycle gedefinieerd  
 <br />
-set power [0..255] : stel in hoeveel 
+set power [0..255] : stel in hoeveel van het maximale vermogen wordt gebruikt.
 <br />
 set diff [0..1] : zorgt voor de mate van bijsturen bij bochten. Neemt hij de bocht te traag, verhoog dan deze waarde.
 <br />
