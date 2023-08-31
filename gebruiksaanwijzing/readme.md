@@ -11,7 +11,7 @@ worden. Zorg ervoor dat de gebruikte batterijen  van het type LG 18650 Li-ion Ba
 
 ### draadloze communicatie
 #### verbinding maken
-uitleg over het verbinden van de robot met laptop / smartphone
+Verbinden van de linefollower en de smartphone gebeurt via de app Serial Bluetooth Terminal. Leg bluetooth aan op je smartphone, en ga in de app naar devices. Zorg ervoor dat je verbonden bent met de HC-05. Ga daarna naar de terminal en verbind rechtsboven door ophet symbooltje van de 2 connecties te klikken. Daarna krijg je de melding dat de HC-05 verbonden ("connected") is.
 
 #### commando's
 debug [on/off]  
