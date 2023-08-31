@@ -29,14 +29,24 @@ Teken een gat af op de onderkant van de batterijhouder, in het midden van de lan
 ### stap 13
 Boor nu een gat met een boor met diameter 4 door de onderkant van de batterijhouder. Boor nu ook een gat met dezelfde diameter in het midden van de onderste printplaat, door de printplaat erboven.
 ### stap 14
-Bevestig
+Bevestig nu met de bout maat M4 bovenaan door de batterijhouder en onderaan met de moer M4.
 ### stap 15
+Dan kunnen we nu de ground kabel van de batterijhouder  met de ground van de arduino nano microcontroller verbinden door middel van solderren. Verbind de rode voedingskabel van de batterijhouder met de schakelaar waarmee we de voeding voor de volledige linefollower aan of af kunnen zetten. Verbind de de schakelaar dan met de 'V in' van de microcontroller. Bevestig de schakelaar op de batterijhouder.
 ### stap 16
+Neem nu de DRV en bevestig deze op het bord zoals op de foto. Soldeer deze vast. Verbind de pinnen zoals te zien is op de technische tekening.
 ### stap 17
+Neem nu de HC05 en bevestig deze op het bord zoals op de foto. Soldeer deze vast. Verbind de pinnen zoals te zien is op de technische tekening. Soldeer ook zeker de schakelaar tussen de voeding en het HC-05 bord zodat we later de HC05 kunnen uitzetten om zo ongestoord programma's van de pc naar de nano microcontroller kunnen uploaden.
 ### stap 18
+Neem nu de button en bevestig deze op het bord zoals op de foto. Deze bevindt zich vlak links onder de microcontroller. Soldeer deze vast. Verbind de pinnen zoals te zien is op de technische tekening.
 ### stap 19
+Neem nu de QTR-8A en bevestig deze op het bord zoals op de foto. Soldeer deze vast. Verbind de pinnen zoals te zien is op de technische tekening.
 ### stap 20
+Eens alles gesoldeerd is, kan je het finale programma uploaden via de Arduino IDE
 ### stap 21
+Als alles goed is verlopen, werkt het programma goed op de linefollower.
 ### stap 22
+Stel de parameters zoals in de handleiding vermeld om zo goed te kunnen rijden.
 ### stap 23
-### stap 24
+Experimenteer met de parameters en geniet van je linefollower
+
+
