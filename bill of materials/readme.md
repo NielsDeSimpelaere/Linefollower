@@ -16,8 +16,8 @@
 |        11|HoofdSchakelaar |Toggle Switch Enkelpolig ON-ON 6A - 125V/ 3A - 250V       |   nieuw   |€ 1,50        |  1   |€ 1,50   |
 |        12|Schakelaar HC05 |Schuifschakelaar enkelpolig ON-ON SPDT 0,5A 12V           |   nieuw   |€ 1,96        |  1   |€ 1,96   |
 |        13|Drukknop        |Drukknop                                                  |   recup   |€ 0           |  1   |€ 0      |
-|        14|Led blauw       |Led blauw                                                 |   recup   |€ 0           |  1   |€ 0      |
-|        15|Led rood        |Led                                                       |   recup   |€ 0           |  1   |€ 0      |
+|        14|Led blauw       |Blauwe led                                                |   recup   |€ 0           |  1   |€ 0      |
+|        15|Led rood        |Rode led                                                  |   recup   |€ 0           |  1   |€ 0      |
 |        16|Weerstand 220 Ω |Weerstand 220 Ω                                           |   recup   |€ 0           |  2   |€ 0      |
 |        17|Weerstand 1 KΩ  |Weerstand 1 KΩ                                            |   recup   |€ 0           |  3   |€ 0      |  
 |        18|Printplaat      |Printplaat met Cu-laag 50mm x 100mm                       |   nieuw   |€ 2,00        |  2   |€ 4,00   |
