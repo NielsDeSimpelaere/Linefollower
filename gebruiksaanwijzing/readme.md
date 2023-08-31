@@ -14,18 +14,28 @@ worden. Zorg ervoor dat de gebruikte batterijen  van het type LG 18650 Li-ion Ba
 Verbinden van de linefollower en de smartphone gebeurt via de app Serial Bluetooth Terminal. Leg bluetooth aan op je smartphone, en ga in de app naar devices. Zorg ervoor dat je verbonden bent met de HC-05. Ga daarna naar de terminal en verbind rechtsboven door ophet symbooltje van de 2 connecties te klikken. Daarna krijg je de melding dat de HC-05 verbonden ("connected") is.
 
 #### commando's
-debug: wanneer je dit intypt, zie je al de ingestelde waardes <br />
-run: bij het intypenvan run bij stilstand van de linefollower, zal dit de linefollower starten. <br />
+debug: wanneer je dit intypt, zie je al de ingestelde waardes
+<br />
+run: bij het intypenvan run bij stilstand van de linefollower, zal dit de linefollower starten.
 <br />
       Om de linefollower te stoppen moet run opnieuw verzonden worden
+<br />
 set cycle [µs] : hiermee wordt de waarde van de cycle gedefinieerd  
+<br />
 set power [0..255] : stel in hoeveel 
-set diff [0..1] : 
+<br />
+set diff [0..1] : zorgt voor de mate van bijsturen bij bochten. Neemt hij de bocht te traag, verhoog dan deze waarde.
+<br />
 set kp [0..] : zorgt voor bijsturing van de fout met een bepaalde factor.
+<br />
 set ki [0..] : zorgt voor bijsturing van de fout aan de hand van hoe lang de fout zich voordoet.
+<br />
 set kd [0..] :  zorgt voor bijsturing van de fout aan de hand van hoe snel de fout verandert.
+<br />
 calibrate black: gebruik dit commando om de wit waarden te kalibreren wanneer nodig (bij een te grote afwijking ).
+<br />
 calibrate white: gebruik dit commando om de zwart waarden te kalibreren wanneer nodig (bij een te grote afwijking).
+<br />
 
 ### kalibratie
 Omdat de omstandigheden waarin de linefollower rijdt niet altijd 100% hetzelfde kunnen zijn, moet er bij te sterk verschillende zwart en wit waarden gekalibreerd worden. Hiervoor voeren we eens een kalibratie op een zwarte ondergrond uit en een kalibratie op de witte ondergrond.
