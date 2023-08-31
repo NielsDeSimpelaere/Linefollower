@@ -3,7 +3,7 @@
 
 |volgnummer|naam            |omschrijving                                              |nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----------------|----------------------------------------------------------|-----------|--------------|------|---------|
-|         1|Microcontroller |Microcontroller arduino nano                              |   nieuw   |€             |  1   |€    |
+|         1|Microcontroller |Microcontroller arduino nano                              |   nieuw   |€             |  1   |€        |
 |         2|DRV8833         |Bipolaire Stappenmotor- en DC-Motoraansturing             |   nieuw   |€ 3,00        |  1   |€ 3,00   |
 |         3|HC-05           |HC-05 Bluetooth module met adapter                        |   nieuw   |€ 6,50        |  1   |€ 6,50   |
 |         4|QTA-8A          |Reflectance Sensor array                                  |   nieuw   |€ 12,30       |  1   |€ 12,30  |
