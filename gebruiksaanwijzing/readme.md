@@ -15,7 +15,7 @@ Verbinden van de linefollower en de smartphone gebeurt via de app Serial Bluetoo
 
 #### commando's
 debug: wanneer je dit intypt, zie je al de ingestelde waardes
-<br />
+<br /> 
 run: bij het intypenvan run bij stilstand van de linefollower, zal dit de linefollower starten.
 <br />
       Om de linefollower te stoppen moet run opnieuw verzonden worden
